@@ -1,0 +1,6 @@
+#ifndef LINKUNIVERSITY_H_INCLUDED
+#define LINKUNIVERSITY_H_INCLUDED
+
+void university();
+
+#endif // LINKUNIVERSITY_H_INCLUDED

@@ -1,0 +1,6 @@
+#ifndef LINKGYM_H_INCLUDED
+#define LINKGYM_H_INCLUDED
+
+void Gym();
+
+#endif // LINKGYM_H_INCLUDED
