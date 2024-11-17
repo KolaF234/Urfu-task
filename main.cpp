@@ -31,7 +31,10 @@ int main()
 
     cout << "Torstoise";
     cout << 1231;
+<<<<<<< HEAD
     cout << " ";
+=======
+>>>>>>> 82031272c758dea3ce37c0c736fa02747c1f8aee
 
     return 0;
 }
