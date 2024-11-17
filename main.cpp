@@ -24,6 +24,10 @@ int main()
     }
 
     //cout << "Go to gym" << endl;
+    for(int i = 0; i < 10; i++){
+        cout << i + 1 << "\t"
+    }
+    cout << "\n";
 
     return 0;
 }
